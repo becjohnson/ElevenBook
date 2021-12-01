@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace ElevenBook.Models
 {
-    public class ReplyCreate
+    public class ReplyListItem
     {
-       
-        [MaxLength(8000)]
+        public int ReplyId { get; set; }
+
+        [Display(Name = "Created")]
         public string Text { get; set; }
-        [Display(Name = "Date Created")]
         public DateTimeOffset CreatedUtc { get; set; }
     }
 }
