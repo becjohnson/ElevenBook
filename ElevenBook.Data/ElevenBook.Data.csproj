@@ -93,6 +93,10 @@
     <Compile Include="Migrations\202112011152290_CreaeDB.designer.cs">
       <DependentUpon>202112011152290_CreaeDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202112012002143_Final.cs" />
+    <Compile Include="Migrations\202112012002143_Final.designer.cs">
+      <DependentUpon>202112012002143_Final.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -111,6 +115,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202112011152290_CreaeDB.resx">
       <DependentUpon>202112011152290_CreaeDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112012002143_Final.resx">
+      <DependentUpon>202112012002143_Final.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
