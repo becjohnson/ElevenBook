@@ -248,6 +248,5 @@ C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\bin\System.Web.Http.O
 C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.AssemblyReference.cache
 C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.CopyComplete
 C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.dll
 C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.pdb

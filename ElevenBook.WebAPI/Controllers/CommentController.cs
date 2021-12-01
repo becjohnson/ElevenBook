@@ -10,6 +10,7 @@ using System.Web.Http;
 
 namespace ElevenBook.Controllers
 {
+    [Authorize]
     public class CommentController : ApiController
     {
         private CommentService CreateCommentService()
