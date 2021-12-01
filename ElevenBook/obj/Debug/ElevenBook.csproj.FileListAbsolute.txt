@@ -118,8 +118,9 @@ C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\System.Web.Http.Owin.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\obj\Debug\ElevenBook.csproj.AssemblyReference.cache
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\obj\Debug\ElevenBook.csproj.CoreCompileInputs.cache
-C:\Users\beaut\Desktop\ElevenBook\ElevenBook\obj\Debug\ElevenBook.csproj.CopyComplete
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\obj\Debug\ElevenBook.dll
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\obj\Debug\ElevenBook.pdb
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\ElevenBook.Models.dll.config
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\ElevenBook.Services.dll.config
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\Swashbuckle.Core.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook\bin\WebActivatorEx.dll

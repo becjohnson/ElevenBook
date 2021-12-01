@@ -10,3 +10,13 @@ C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.csproj.CopyComplete
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Data.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Models.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Data.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Data.dll.config
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Models.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Models.dll.config
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

@@ -12,7 +12,6 @@ namespace ElevenBook.Models
         [Required]
         public Guid AuthorId { get; set; }
         public int CommentId { get; set; }
-        public virtual ICollection<Post> Posts { get; set; }
         [Required]
         [MaxLength(8000)]
         [Display(Name = "Comment")]

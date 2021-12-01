@@ -16,9 +16,5 @@ namespace ElevenBook.Models
         public Guid AuthorId { get; set; }
         [Display(Name = "Reply")]
         public string Text { get; set; }
-        [ForeignKey("CommentId")]
-        public virtual ICollection<Comment> Comments { get; set; }
-        public int CommentId { get; set; }
-        public Comment Comment { get; set; }
     }
 }

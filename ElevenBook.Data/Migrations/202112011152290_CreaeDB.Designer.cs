@@ -7,13 +7,13 @@ namespace ElevenBook.Data.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class CreaDB : IMigrationMetadata
+    public sealed partial class CreaeDB : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(CreaDB));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(CreaeDB));
         
         string IMigrationMetadata.Id
         {
-            get { return "202112010137546_CreaDB"; }
+            get { return "202112011152290_CreaeDB"; }
         }
         
         string IMigrationMetadata.Source
