@@ -16,5 +16,9 @@ namespace ElevenBook.Models
         public Guid AuthorId { get; set; }
         [Display(Name = "Reply")]
         public string Text { get; set; }
+        [Display(Name = "Date Created")]
+        public DateTimeOffset CreatedUtc { get; set; }
+        [Display(Name = "Modified")]
+        public DateTimeOffset ModifiedUtc { get; set; }
     }
 }
