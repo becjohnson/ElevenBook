@@ -42,8 +42,7 @@ namespace ElevenBook.Services
                             new PostListItem
                             {
                                 PostId = e.PostId,
-                                Title = e.Title,
-                            }
+                                Title = e.Title,                            }
                         );
                 return query.ToArray();
             }
