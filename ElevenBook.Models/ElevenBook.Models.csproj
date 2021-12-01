@@ -54,7 +54,11 @@
     <Compile Include="CommentCreate.cs" />
     <Compile Include="CommentDetail.cs" />
     <Compile Include="CommentEdit.cs" />
+<<<<<<< HEAD
     <Compile Include="CommentListItem.cs" />
+=======
+    <Compile Include="CommentList.cs" />
+>>>>>>> origin/Jon
     <Compile Include="PostCreate.cs" />
     <Compile Include="PostDetail.cs" />
     <Compile Include="PostEdit.cs" />
