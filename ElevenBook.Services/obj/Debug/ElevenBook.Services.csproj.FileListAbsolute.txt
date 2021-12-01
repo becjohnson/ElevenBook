@@ -1,0 +1,12 @@
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Services.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Services.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.csproj.AssemblyReference.cache
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\ElevenBook.Services.dll.config
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.xml
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Services\obj\Debug\ElevenBook.Services.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.csproj.AssemblyReference.cache
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.pdb
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.dll.config
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.xml
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.xml
