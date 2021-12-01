@@ -37,3 +37,4 @@ C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Data\obj\Debug\ElevenBook.Data.pdb
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Data\bin\Debug\ElevenBook.Models.dll.config
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Data\obj\Debug\ElevenBook.Data.Migrations.CreaeDB.resources
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Data\obj\Debug\ElevenBook.Data.csproj.GenerateResource.cache
+C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Data\obj\Debug\ElevenBook.Data.csproj.CopyComplete
