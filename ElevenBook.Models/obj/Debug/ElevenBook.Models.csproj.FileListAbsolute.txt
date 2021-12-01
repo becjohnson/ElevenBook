@@ -9,3 +9,15 @@ C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.dl
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.dll.config
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.dll
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\ElevenBook.Models.pdb
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.dll
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.xml
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.csproj.AssemblyReference.cache
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.csproj.CopyComplete
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.dll
+C:\Users\jonalas\source\repos\ElevenBook\ElevenBook.Models\obj\Debug\ElevenBook.Models.pdb
