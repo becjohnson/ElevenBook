@@ -122,6 +122,5 @@ C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\bin\System.Web.Http.Owin.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.AssemblyReference.cache
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.WebAPI.csproj.CopyComplete
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.dll
 C:\Users\beaut\Desktop\ElevenBook\ElevenBook.WebAPI\obj\Debug\ElevenBook.pdb
